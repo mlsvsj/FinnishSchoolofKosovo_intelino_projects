@@ -34,6 +34,3 @@ You can also change how long the train waits before moving again.
 - What happens if we change the distance value?  
 - How can we make the stop longer?  
 
-
-### 🖼️ Image  
-(Add your Scratch screenshot here)
