@@ -46,4 +46,5 @@ You can also add more color changes while the train moves.
 ---
 
 ### 🖼️ Image  
-(Add your Scratch screenshot here)
+
+<img width="1426" height="752" alt="Screenshot 2026-04-03 121408" src="https://github.com/user-attachments/assets/6693acf1-2c63-4799-9d32-bcfabfaadf78" />
