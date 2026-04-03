@@ -51,5 +51,4 @@ You can also change the waiting time at each station.
 
 ---
 
-### 🖼️ Image  
-(Add your Scratch screenshot here)
+
