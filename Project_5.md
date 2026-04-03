@@ -46,7 +46,4 @@ You can add more stops and more LED changes.
 - Why does the train stop?  
 - How can we make it more “smart”?  
 
----
 
-### 🖼️ Image  
-(Add your Scratch screenshot here)
